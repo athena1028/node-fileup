@@ -1,0 +1,23 @@
+{
+  "name": "athena1028",
+  "version": "0.0.0",
+  "description": "code from\r http://aaa.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/athena1028/node-fileup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athena1028/node-fileup/issues"
+  },
+   "dependencies": {
+         "formidable": "*"
+    }
+  "homepage": "https://github.com/athena1028/node-fileup"
+}
