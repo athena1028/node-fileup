@@ -18,6 +18,6 @@
   },
    "dependencies": {
          "formidable": "*"
-    }
+    },
   "homepage": "https://github.com/athena1028/node-fileup"
 }
